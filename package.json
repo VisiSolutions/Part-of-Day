@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A simple TS compatible library that returns either morning, afternoon or evening dependent on a given EPOCH time. ",
   "main": "src/index.js",
+  "typings": "src/index.d.ts",
   "scripts": {
     "test": "jest"
   },
