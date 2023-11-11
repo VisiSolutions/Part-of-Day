@@ -2,7 +2,7 @@
   "name": "@visimedia/part-of-day",
   "version": "1.0.0",
   "description": "A simple TS compatible library that returns either morning, afternoon or evening dependent on a given EPOCH time. ",
-  "main": "dist/index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "jest"
   },
