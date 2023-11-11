@@ -5,6 +5,7 @@
   "main": "src/index.js",
   "typings": "src/index.d.ts",
   "scripts": {
+	"build": "tsc src/index.ts",
     "test": "jest"
   },
   "repository": {
