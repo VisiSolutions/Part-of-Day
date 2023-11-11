@@ -1,0 +1,35 @@
+{
+  "name": "@visimedia/part-of-day",
+  "version": "1.0.0",
+  "description": "A simple TS compatible library that returns either morning, afternoon or evening dependent on a given EPOCH time. ",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VisiSolutions/Part-of-Day.git"
+  },
+  "keywords": [
+    "time",
+    "of",
+    "day",
+    "morning",
+    "afternoon",
+    "evening",
+    "human",
+    "words"
+  ],
+  "author": "VisiMedia Ltd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VisiSolutions/Part-of-Day/issues"
+  },
+  "homepage": "https://github.com/VisiSolutions/Part-of-Day#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.8",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.2.2"
+  }
+}

@@ -1,0 +1,1 @@
+type dayPart = 'Morning' | 'Afternoon' | 'Evening';
